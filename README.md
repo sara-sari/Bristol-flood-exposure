@@ -1,7 +1,7 @@
 # An Analysis of Bristol’s Flood Exposure Using QGIS
 Mapping of Bristol buildings and neighbourhoods to understand their exposure to fluvial and tidal flooding, today and with climate change. 
 
-[Read the full analysis (PDF)](Bristol_Flood_Analysis.pdf)
+[Read the full analysis (PDF)](https://github.com/sara-sari/Bristol-flood-exposure/blob/main/Bristol%20Flood%20Analysis.pdf)
 ## Key findings
 -	**2,319 buildings (4.2% of Bristol’s buildings)** lie in Environment Agency’s Flood Zone 3, the highest-risk zone. 
 -	Flood risk is concentrated in **Avonmouth** and **Bristol city centre**. Three Avonmouth neighbourhoods alone contain about a third of Bristol’s Zone 3 buildings. 
